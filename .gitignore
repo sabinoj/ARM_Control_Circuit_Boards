@@ -1,3 +1,6 @@
+*.pcb-
+*.pcb~
+*.pcb#
 *.sch-
 *.sch~
 *.sch#
